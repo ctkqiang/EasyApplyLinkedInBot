@@ -1,6 +1,6 @@
-# LinkedIn 自动投递机器人 🤖
+# 领英自动投递机器人 🤖
 
-一个自动化的 LinkedIn 职位申请工具，帮助你快速投递简历。
+一个自动化的领英职位申请工具，帮助你快速投递简历。
 
 ## ✨ 功能特点
 
@@ -16,7 +16,7 @@
 - Python 3.8+
 - Firefox 浏览器
 - Selenium WebDriver
-- 有效的 LinkedIn 账号
+- 有效的领英账号
 
 ## 📦 安装
 
@@ -59,7 +59,7 @@ python src/run.py
 运行程序时，您将看到以下类型的输出：
 
 ```plaintext
-🤖 初始化 LinkedIn 自动投递机器人
+🤖 初始化领英自动投递机器人
 👤 账号: your.email@example.com
 🔍 搜索关键词: flutter, python, 爬虫
 📍 地区: 中国

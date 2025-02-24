@@ -14,7 +14,7 @@ from datetime import datetime
 class EasyApplyLinkedinJobBot:
     def __init__(self, account: str, password: str, jobs: list, location: str):
         try:
-            self.appName: str = "LinkedIn自动投递机器人"
+            self.appName: str = "领英自动投递机器人"
             self.endpoint: str = "https://www.linkedin.com/jobs/search/"
             self.endpointJobViewer: str = "https://www.linkedin.com/jobs/view/"
             self.account: str = account
